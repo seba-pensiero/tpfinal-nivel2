@@ -1,0 +1,6 @@
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\bin\Debug\dominio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\bin\Debug\dominio.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\obj\Debug\dominio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\dominio\obj\Debug\dominio.pdb

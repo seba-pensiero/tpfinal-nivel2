@@ -1,0 +1,17 @@
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\TPFinalNivel2_Pensiero.exe.config
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\TPFinalNivel2_Pensiero.exe
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\TPFinalNivel2_Pensiero.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.csproj.AssemblyReference.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.Properties.Resources.resources
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.csproj.GenerateResource.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.csproj.CoreCompileInputs.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.exe
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.frmAgregarArtículo.resources
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.frmArticulos.resources
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\dominio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\negocio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\dominio.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\bin\Debug\negocio.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.csproj.CopyComplete
+D:\Seba\Programación\TPFinalNivel2_Pensiero\TPFinalNivel2_Pensiero\obj\Debug\TPFinalNivel2_Pensiero.frmDetalles.resources

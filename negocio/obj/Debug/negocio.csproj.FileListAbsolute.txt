@@ -1,0 +1,9 @@
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\bin\Debug\negocio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\bin\Debug\negocio.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\bin\Debug\dominio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\bin\Debug\dominio.pdb
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\obj\Debug\negocio.dll
+D:\Seba\Programación\TPFinalNivel2_Pensiero\negocio\obj\Debug\negocio.pdb
